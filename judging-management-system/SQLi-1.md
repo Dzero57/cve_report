@@ -1,6 +1,6 @@
 # Judging Management System v1.0 by oretnom23 has SQL injection
 
-BUG_Author: zero57
+BUG_Author: 董鹏
 
 vendors: https://www.sourcecodester.com/php/15910/judging-management-system-using-php-and-mysql-free-source-code.html
 
